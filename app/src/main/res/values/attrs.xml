@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Circle">
+        <attr name="movable_circle_radius" format="dimension" />
+        <attr name="non_movable_circle_radius" format="dimension" />
+    </declare-styleable>
+</resources>
